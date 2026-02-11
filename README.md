@@ -1,6 +1,6 @@
 # 小红书封面生成器 (Redbook Title Generator)
 
-一个简单高效的工具，用于生成“网飞风格”的小红书封面图。支持自定义标题和日期，一键生成 1242x1656 高清大图。
+简单高效的工具，用于生成“网飞风格”的小红书封面图。支持自定义标题和日期，一键生成 1242x1656 高清大图。
 <img width="1512" height="790" alt="PixPin_2026-02-11_15-27-39" src="https://github.com/user-attachments/assets/67e6d09c-adb1-463f-b772-83827f9b7ce1" />
 
 
